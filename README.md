@@ -59,15 +59,6 @@ Predicting customer tipping behavior at hotels using **AutoML**, deployed via **
 
 ---
 
-### **📜 Certifications**
-
-- **Machine Learning** – Udemy  
-- **Qlik Business Analyst Certification** – Qlik Learning  
-- **Introduction to MongoDB** – MongoDB University  
-- **IIT Spoken Tutorial Course on Java**
-
----
-
 ### **📫 Let's Connect**
 
 <p align="left">
